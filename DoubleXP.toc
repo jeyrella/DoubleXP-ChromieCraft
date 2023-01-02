@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: DoubleXP - Chromie
+## Version: 1.22
+## X-Date: 2023/01/02
+## Notes: Gives time before the next double XP Weekend, or time left before double XP Weekend ends
+## SavedVariablesPerCharacter: DXP_Visible,DXP_Offset
+
+DoubleXP.xml
