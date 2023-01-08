@@ -33,3 +33,5 @@ WoW\
 	       |- LICENSE.txt
 	       .- README.md
 ```
+
+4. Activate the Addon either using the `Addons` button in the bottom left of the `Character Select` screen, or using `ACP`.
