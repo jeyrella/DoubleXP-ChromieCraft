@@ -34,4 +34,4 @@ WoW\
 	       .- README.md
 ```
 
-4. Activate the Addon either using the `Addons` button in the bottom left of the `Character Select` screen, or using `ACP`.
+4. Activate the Addon using either the `Addons` button in the bottom left of the `Character Select` screen, or via `ACP`.
