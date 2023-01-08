@@ -6,7 +6,7 @@ Its purpose is to give time before the next double XP Weekend, or time left befo
 
 It's standalone, that means it does not need any external library.
 
-As WoW API for 3.3.5 doesn't give an accurate Server time, you need to manually adjust the offset of your timezone. It's not the real offset but the offset compared to server time. There's a slash command for that (/dxp offset <value>).
+As WoW API for 3.3.5 doesn't give an accurate Server time, **you need to manually adjust the offset of your timezone**. This is your timezone difference compared to server time, which is UTC (GMT). There's a slash command for this (/dxp offset <value>).
 
 ## Install
 
