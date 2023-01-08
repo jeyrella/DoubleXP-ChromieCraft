@@ -12,7 +12,7 @@ As WoW API for 3.3.5 doesn't give an accurate Server time, you need to manually 
 
 ### Downloading ZIP file
 
-1. On Github, download project as a ZIP file (green `Download ZIP` button at the top right).
+1. On Github, download project as a ZIP file (either from `Releases` on the right or the green `Code` button at the top right - then `Download ZIP`).
 2. Open the ZIP, open the "DoubleXP-master" folder, and place this next folder's content in the `Interface\AddOns\` folder of you WoW installation. You need to put the directory there, not the files. And there must only have one directory called DoubleXP-master.
 3. (Optional) Rename the directory to `DoubleXP`
 
