@@ -6,9 +6,11 @@ Its purpose is to give time before the next double XP Weekend, or time left befo
 
 It's standalone, that means it does not need any external library.
 
-As WoW API for 3.3.5 doesn't give an accurate Server time, **you need to manually adjust the offset of your timezone**. This is your timezone difference compared to server time, which is UTC (GMT). There's a slash command for this (/dxp offset <value>).
+<FONT COLOR="red"> **_IMPORTANT_**
 
-## Install
+As WoW API for 3.3.5 doesn't seem to give an accurate Server time, **you need to _manually adjust the offset of your timezone_**. This is your timezone difference compared to server time, which is UTC (GMT). There's a slash command for this (`/dxp offset <value>` ).
+
+## Installation ##
 
 ### Downloading ZIP file
 
@@ -35,3 +37,4 @@ WoW\
 ```
 
 4. Activate the Addon using either the `Addons` button in the bottom left of the `Character Select` screen, or via `ACP`.
+5. Set your timezone offset to GMT/UTC by using the command /dxp offset <value>
