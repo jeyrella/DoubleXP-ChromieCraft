@@ -2,7 +2,7 @@
 
 This is an addon for WoW 3.3.5 (WOTLK) on ChromieCraft private server.
 
-Its purpose is to give time before the next double XP Weekend, or time left before the double XP Weekend ends.
+Its purpose is to visually display the time remaining before the next double XP Weekend, or to when the double XP Weekend ends.
 
 It's standalone, that means it does not need any external library.
 
