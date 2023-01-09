@@ -12,6 +12,10 @@ It's standalone, which means it does not need any external library.
 
 As WoW API for 3.3.5 doesn't seem to give an accurate Server time, **you need to _manually adjust the offset of your timezone_**. This is your timezone difference compared to server time, which is UTC (GMT). There's a slash command for this (`/dxp offset <value>` ).
 
+Offset is how many hours GMT is ahead of your local time, e.g.:
+- If your local time is Central Europe, it would be `/dxp offset -1`
+- EST would be `/dxp offset 5`
+
 ## Installation ##
 
 ### Downloading ZIP file
