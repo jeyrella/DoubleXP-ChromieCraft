@@ -1,10 +1,10 @@
 # DoubleXP-ChromieCraft
 
-This is an addon for WoW 3.3.5 (WOTLK) on ChromieCraft private server.
+This is an addon for WoW 3.3.5 (WotLK) on ChromieCraft private server.
 
 Its purpose is to visually display the time remaining before the next double XP Weekend, or to when the double XP Weekend ends.
 
-It's standalone, that means it does not need any external library.
+It's standalone, which means it does not need any external library.
 
 <FONT COLOR="red"> **_IMPORTANT_**
 
