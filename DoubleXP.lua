@@ -208,7 +208,7 @@ function DoubleXP_TimeLeft()
 		if ( date_limit.wday == 1 ) then
 			time_limit = time(date_limit);
 		else
-			time_limit = time(date_limit) + 3600*24;
+			time_limit = time(date_limit) + 3600*24*2;
 		end
 	else
 		time_limit = time(date_limit) + (5-DXP_Date.wday)*3600*24;
