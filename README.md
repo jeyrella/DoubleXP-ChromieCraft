@@ -23,7 +23,7 @@ Offset is how many hours GMT is ahead of your local time, e.g.:
 
 1. On Github, download project as a ZIP file (either from `Releases` on the right or the green `Code` button at the top right - then `Download ZIP`).
 2. Extract the ZIP to the `Interface\AddOns\` folder of your WoW installation. You need to put the directory there, not the files.  You could alternatively extract the zip elswhere and just move the extracted folder instead.
-3. (Optional) Rename the directory to `DoubleXP` (from DoubleXP-main or DoubleXP-release depending on which download button above you used)
+3. Rename the directory to `DoubleXP` (from DoubleXP-main or DoubleXP-release depending on which download button above you used)
 
 In the end, the directory structure should looks like this:
 
